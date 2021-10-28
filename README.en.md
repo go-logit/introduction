@@ -6,8 +6,8 @@ Check logit in [Gitee](https://gitee.com/FishGoddess/logit) / [GitHub](https://g
 ### Who Is Using
 | Project | Author      | Description                                     | link                                                         |
 | ------- | ----------- | ----------------------------------------------- | ------------------------------------------------------------ |
-| postar  | avino-plan  | An easy-to-use and low-coupling email service   | [Github](https://github.com/avino-plan/postar) / [Gitee](https://gitee.com/avino-plan/postar) |
-| kafo    | FishGoddess | An easy-to-use and distributed cache middleware | [Github](https://github.com/FishGoddess/kafo) / [Gitee](https://gitee.com/FishGoddess/kafo) |
+| postar  | avino-plan  | An easy-to-use and low-coupling email service   | [Gitee](https://gitee.com/avino-plan/postar) / [Github](https://github.com/avino-plan/postar) |
+| kafo    | FishGoddess | An easy-to-use and distributed cache middleware | [Gitee](https://gitee.com/FishGoddess/kafo) / [Github](https://github.com/FishGoddess/kafo) |
 
 ### Join Us
 If you want to join us, please send an email with your information to fishgoddess@qq.com。
