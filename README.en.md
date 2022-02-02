@@ -1,7 +1,7 @@
 ### Introduction
-This organization is the extend of logit, including configuration-file. Maybe logit will also migrate here.
+This organization is the extend of logit, including configuration-file.
 
-Check logit in [Gitee](https://gitee.com/FishGoddess/logit) / [GitHub](https://github.com/FishGoddess/logit).
+Check logit in [Gitee](https://gitee.com/go-logit/logit) / [GitHub](https://github.com/go-logit/logit).
 
 ### Who Is Using
 | Project | Author      | Description                                     | link                                                         |
@@ -18,7 +18,7 @@ If you like what we are doing and want to support us, donate us a cup of coffee 
 ![wechat-pay](./_icon/wechat-pay.png)
 ![ali-pay](./_icon/ali-pay.png)
 
-### Contact Us
-QQ: 1149062639
+At last, I want to thank JetBrains for **free JetBrains Open Source license(s)**, because `logit` is developed with Idea / GoLand under it.
 
-Email: fishgoddess@qq.com
+<a href="https://www.jetbrains.com/?from=logit" target="_blank"><img src="./_icons/jetbrains.png" width="250"/></a>
+

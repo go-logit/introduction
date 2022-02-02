@@ -1,7 +1,7 @@
 ### 组织介绍
-这个组织是 logit 日志库的扩展仓库，包括配置文件的支持等，后续可能会考虑将 logit 主库也迁移进来，不过暂时还没有动手。
+这个组织是 logit 日志库的扩展仓库，包括配置文件的支持等。
 
-更多信息参见 logit 主仓库 [码云](https://gitee.com/FishGoddess/logit) / [GitHub](https://github.com/FishGoddess/logit)。
+更多信息参见 logit 主仓库 [码云](https://gitee.com/go-logit/logit) / [GitHub](https://github.com/go-logit/logit)。
 
 ### 他们正在使用
 | 项目   | 作者        | 描述                             | 链接                                                         |
@@ -18,7 +18,7 @@
 ![微信支付](./_icon/wechat-pay.png)
 ![支付宝](./_icon/ali-pay.png)
 
-### 联系
-QQ: 1149062639
+最后，我想感谢 JetBrains 公司的 **free JetBrains Open Source license(s)**，因为 `logit` 是用该计划下的 Idea / GoLand 完成开发的。
 
-邮箱: fishgoddess@qq.com
+<a href="https://www.jetbrains.com/?from=logit" target="_blank"><img src="./_icons/jetbrains.png" width="250"/></a>
+
