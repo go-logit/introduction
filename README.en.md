@@ -15,13 +15,6 @@ Check logit in [Gitee](https://gitee.com/go-logit/logit) / [GitHub](https://gith
 
 If you want to join us, please send an email with your information to fishgoddess@qq.com。
 
-### 🌈 Donate Us
-
-If you like what we are doing and want to support us, donate us a cup of coffee with qr-code here:
-
-![wechat-pay](./_icons/wechat-pay.png)
-![ali-pay](./_icons/ali-pay.png)
-
 At last, I want to thank JetBrains for **free JetBrains Open Source license(s)**, because `logit` is developed with Idea
 / GoLand under it.
 

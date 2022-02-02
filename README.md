@@ -15,13 +15,6 @@
 
 如果你有意向和我们一起做这件事，请发送邮件至 fishgoddess@qq.com。
 
-### 捐助
-
-如果你觉得我们的开源软件对你有所帮助或者你想支持我们，请扫下方二维码打赏我们一杯咖啡。
-
-![微信支付](./_icons/wechat-pay.png)
-![支付宝](./_icons/ali-pay.png)
-
 最后，我想感谢 JetBrains 公司的 **free JetBrains Open Source license(s)**，因为 `logit` 是用该计划下的 Idea / GoLand 完成开发的。
 
 <a href="https://www.jetbrains.com/?from=logit" target="_blank"><img src="./_icons/jetbrains.png" width="250"/></a>
